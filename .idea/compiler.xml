@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="project_acedemy.ProjectGroup3.buildSrc" target="11" />
+      <module name="project_acedemy.ProjectGroup3.buildSrc.main" target="11" />
+      <module name="project_acedemy.ProjectGroup3.buildSrc.test" target="11" />
+      <module name="project_acedemy.ProjectGroup3.feature_login.presentation" target="11" />
+      <module name="project_acedemy.ProjectGroup3.feature_places.data" target="1.8" />
+      <module name="project_acedemy.ProjectGroup3.feature_places.data.main" target="1.8" />
+      <module name="project_acedemy.ProjectGroup3.feature_places.data.test" target="1.8" />
+      <module name="project_acedemy.ProjectGroup3.feature_places.domain" target="1.8" />
+      <module name="project_acedemy.ProjectGroup3.feature_places.domain.main" target="1.8" />
+      <module name="project_acedemy.ProjectGroup3.feature_places.domain.test" target="1.8" />
+      <module name="project_acedemy.ProjectGroup3.feature_places.presentation" target="11" />
+      <module name="project_acedemy.ProjectGroup3.uicomponent" target="11" />
+      <module name="ProjectGroup3.app" target="11" />
+      <module name="ProjectGroup3.buildSrc" target="11" />
+      <module name="ProjectGroup3.buildSrc.main" target="11" />
+      <module name="ProjectGroup3.buildSrc.test" target="11" />
+      <module name="ProjectGroup3.feature_login.presentation" target="11" />
+      <module name="ProjectGroup3.feature_places.data" target="1.8" />
+      <module name="ProjectGroup3.feature_places.data.main" target="1.8" />
+      <module name="ProjectGroup3.feature_places.data.test" target="1.8" />
+      <module name="ProjectGroup3.feature_places.domain" target="1.8" />
+      <module name="ProjectGroup3.feature_places.domain.main" target="1.8" />
+      <module name="ProjectGroup3.feature_places.domain.test" target="1.8" />
+      <module name="ProjectGroup3.feature_places.presentation" target="11" />
+      <module name="ProjectGroup3.lib.firebase" target="1.8" />
+      <module name="ProjectGroup3.lib.firebase.main" target="1.8" />
+      <module name="ProjectGroup3.lib.firebase.test" target="1.8" />
+      <module name="ProjectGroup3.uicomponent" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
